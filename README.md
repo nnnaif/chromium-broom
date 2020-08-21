@@ -1,6 +1,6 @@
 # Chromium Broom
 
-Chromium extension that clears **downloads** and **browser history** on startup. 
+Chromium extension that clears **downloads** and **browsing** history on startup. 
 
 It uses the [downloads](https://developer.chrome.com/extensions/downloads) and [history](https://developer.chrome.com/extensions/downloads) extension APIs separately, which seems to work better than using [browsingData](https://developer.chrome.com/extensions/browsingData).
 
