@@ -2,7 +2,7 @@
   "name": "Chromium Broom",
   "version": "1.0",
   "author": "Naif",
-  "description": "Removes Chromium's history and downloads.",
+  "description": "Clears Chromium's history and downloads.",
   "homepage_url": "https://github.com/nnnaif/chromium-broom",
   "permissions": [
     "history",
