@@ -1,0 +1,21 @@
+{
+  "name": "Chromium Broom",
+  "version": "1.0",
+  "author": "Naif",
+  "description": "Removes Chromium's history and downloads.",
+  "homepage_url": "https://github.com/nnnaif/chromium-broom",
+  "permissions": [
+    "history",
+    "downloads"
+  ],
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": false
+  },
+  "icons": {
+    "128": "icon.png"
+  },
+  "manifest_version": 2
+}
